@@ -1,0 +1,5 @@
+package com.REST.API.model;
+
+public class Person {
+
+}

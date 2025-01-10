@@ -1,0 +1,29 @@
+package com.REST.API.controllers;
+
+
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+
+@RestController
+public class PersonController {
+	
+	
+	
+	@GetMapping("/sum/{numberOne}/{numberTwo}")
+	public Double sum(
+			@PathVariable String numberOne,
+			@PathVariable String numberTwo
+		) throws Exception{
+		
+		
+		return null;
+	}	
+
+
+
+	
+	
+}
