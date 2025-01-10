@@ -1,0 +1,5 @@
+package com.REST.API.exceptions.handler;
+
+public class CustomizedResponseEntityExceptionHandler {
+
+}

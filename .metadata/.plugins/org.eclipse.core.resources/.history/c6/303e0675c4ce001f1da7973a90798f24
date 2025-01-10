@@ -1,0 +1,6 @@
+package com.REST.API.exceptions;
+
+@ResponseStatus
+public class UsuportedMathOperationException extends RuntimeException{
+
+}
