@@ -1987,3 +1987,6 @@
 2025-01-20 12:53:28,671 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
 2025-01-20 12:53:28,704 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-01-20 12:53:28,706 [Worker-200: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pedro.goncalves\Downloads\API\API\src\test\resources
+2025-01-20 14:43:07,880 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-01-20 14:43:07,976 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-20 14:43:07,980 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\pedro.goncalves\Downloads\API\API\src\test\resources
