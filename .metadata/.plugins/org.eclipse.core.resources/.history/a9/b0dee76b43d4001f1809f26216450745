@@ -1,0 +1,8 @@
+#spring:
+#  datasource:
+#    dbcp2:
+#      driver-class-name:  com.mysql.cj.jdbc.Driver
+#			url: jdbc:mysql://localhost:3306/nomeDoBanco?useTimezone=true&serverTimeZone=UTC
+#			username: root
+#			password: admin123
+#        
